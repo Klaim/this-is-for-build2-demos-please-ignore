@@ -1,0 +1,8 @@
+: 1
+location: hello/
+
+:
+location: libhello/
+
+:
+location: test-libhello/

@@ -1,0 +1,6 @@
+$out_root/
+{
+  include src/libhello/
+}
+
+export $out_root/src/libhello/$import.target

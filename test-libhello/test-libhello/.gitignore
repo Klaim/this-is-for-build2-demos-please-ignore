@@ -1,0 +1,5 @@
+test-libhello
+
+# Testscript output directory (can be symlink).
+#
+test-test-libhello
