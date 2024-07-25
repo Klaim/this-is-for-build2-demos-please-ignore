@@ -1,6 +1,6 @@
 : 1
 name: test-libhello
-version: 1.0.0
+version: 1.1.0-a.0.z
 language: c++
 project: myproject
 summary: test-libhello C++ executable
