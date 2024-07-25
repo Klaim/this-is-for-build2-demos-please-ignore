@@ -1,6 +1,6 @@
 intf_libs = # Interface dependencies.
 impl_libs = # Implementation dependencies.
-import impl_libs += fmt%lib{fmt}
+import impl_libs += fmt%lib{fmt} libboost-container%lib{boost_container}
 
 # Public headers.
 #
